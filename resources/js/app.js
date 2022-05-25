@@ -17,7 +17,7 @@ Vue.use(VueRouter)
 
 
 
-Vue.component('example-component', require('./components/ExampleComponent.vue').default);
+// Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 Vue.component('users-list', require('./components/UsersListComponent.vue').default);
 Vue.component('users-add', require('./components/AddUsersListComponent.vue').default);
 Vue.component('users-edit', require('./components/EditUsersListComponent.vue').default);

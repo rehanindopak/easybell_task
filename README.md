@@ -2,7 +2,6 @@
 # About the CRUD operation using Laravel and Vue.JS # 
  
 
-
 ## How to use : Instruction ## 
 ### how to Configure the application ###
 * Clone the Repositray 
