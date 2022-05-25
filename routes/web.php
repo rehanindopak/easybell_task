@@ -19,9 +19,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
-
-
     // Custom Users Routes Start
     Route::get('custom_users_index', [CustomUserController::class, 'index'])->name('custom_users.index');
     Route::get('custom_users_add', [CustomUserController::class, 'add'])->name('custom_users.add');
