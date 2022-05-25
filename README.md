@@ -14,14 +14,11 @@
 * 6) php artisan migrate
 
 
-
 ### how to run the application ###
 * open project in terminal 
 * Run the Following commands
 * 1) php artisan serve
 * 2) npm watch watch or npm run dev 
-
-
  
 
 
