@@ -29,11 +29,3 @@
 * open project in terminal 
 * Run the Following commands
 * 1) php artisan test 
-
-
-
-
-### Jest-test   ###
-* open project in terminal 
-* Run the Following commands
-* 1) php artisan test 

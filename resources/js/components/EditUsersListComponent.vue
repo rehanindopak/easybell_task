@@ -1,14 +1,7 @@
 <template>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8">
-
-                 <!-- <router-link :to="{name: 'userlist'}" class="btn btn-primary">User List</router-link>
-               <router-link :to="{name: 'adduser'}" class="btn btn-primary"> Add New User</router-link> -->
-                 <br>       
-
-
-
+            <div class="col-md-8"> 
                 <div class="card">
 
  
@@ -56,16 +49,10 @@
 </template>
 
 
-
-
-
-
-
 <script>
 import Axios from 'axios';
     export default {
         data(){
-
             return{
                 user : {}, 
                 error : '',
